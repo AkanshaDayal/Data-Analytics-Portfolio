@@ -41,6 +41,14 @@ targeted marketing strategies and personalized services.
   ![DayalDash](https://github.com/AkanshaDayal/Data-Analytics-Portfolio/assets/151764360/7e820aee-8809-4ff7-a9df-f3faa932050d)
 
 
+# Performance Pulse Check
+Crafted a Customer Performance Report using Microsoft Power BI. This data encompasses an average age of customer, earning based on gender,highest ranking customers.
+﻿At $76,185,173, 41-50 had the highest Total Revenue and was 202.61% higher than 61-70, which had the lowest Total Revenue at $25,175,690.﻿﻿
+﻿﻿Across all 5 Age Category, Total Revenue ranged from $25,175,690 to $76,185,173.﻿﻿
+﻿﻿
+
+![darkmode](https://github.com/AkanshaDayal/Data-Analytics-Portfolio/assets/151764360/66936450-f11c-439e-b16d-9dfd78d0a065)
+
 
    
 
